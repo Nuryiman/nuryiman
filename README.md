@@ -1,16 +1,5 @@
 <div align="center">
-  <h1>Нурыйман</h1>
-  <p><b>Python Backend Developer</b> — серверные системы, боты, AI-интеграция</p>
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-  ![DRF](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=flat)
-  ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
-
-  <img src="https://komarev.com/ghpvc/?username=Nuryiman&color=58a6ff&style=flat&label=Profile+views" />
+  <img src="./banner.svg" width="100%" alt="banner"/>
 </div>
 
 ---
